@@ -1,0 +1,11 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name= "BatchExecution">
+<Test name = "dvy" >
+<classes>
+<class name = "dv1.Test1"/>
+<class name = "dv1.Test2"/>
+<class name = "dv1.Test3"/>
+</classes>
+</Test>
+</suite>

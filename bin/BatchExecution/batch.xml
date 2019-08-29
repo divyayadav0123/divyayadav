@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name= "BatchExecution" parallel="true">
+<Test name = "divya1" >
+<classes>
+<class name = "BatchExecution.TestA"/>
+<class name = "BatchExecution.TestB"/>
+<class name = "BatchExecution.TestC"/>
+</classes>
+</Test>
+</suite>
